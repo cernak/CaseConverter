@@ -6,4 +6,4 @@
 <p>While implementing this project, I worked with basic HTML elements. Created event handlers for click events and worked with strings in JavaScript.</p>
 
 <hr>
-Link to my JetBrains Academy profile: https://hyperskill.org/profile/87088491
+Link to Nick Cernak's profile on JetBrains Academy: https://hyperskill.org/profile/87088491
